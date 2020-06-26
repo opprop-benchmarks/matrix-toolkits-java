@@ -111,8 +111,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
-            <scope>test</scope>
+            <version>[24.1.1,)</version>
         </dependency>
         <dependency>
             <groupId>net.sf.opencsv</groupId>
